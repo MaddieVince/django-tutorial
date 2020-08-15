@@ -3,3 +3,6 @@ from .models import Question
 
 admin.site.register(Question)
 # Register your models here.
+
+#admin-username: maddie
+#admin-password: password
